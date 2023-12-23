@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="text_draggable_area">text_draggable_area</string>
+    <string name="text" />
+    <string name="add_text" />
+    <string name="select_image" />
+    <string name="background_image" />
+</resources>
